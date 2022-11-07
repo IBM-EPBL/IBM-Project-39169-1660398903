@@ -1,8 +1,8 @@
 # 💸 Personal Expense Tracker Application
-- IBM-Project-22284-1659847467
+- IBM-Project-39169-1660398903
 - Project Group Name : PersonalExpenseTrackerApplication22GP
 - Category: Cloud App Development
-- Batch : B1-1M3E
+- Batch : B7-1M3E
 
 # 💻 Skills Required:
 IBM Cloud, HTML, Javascript, IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry
