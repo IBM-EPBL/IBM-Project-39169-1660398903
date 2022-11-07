@@ -4,7 +4,7 @@
 
 | Query | Reply |
 | --- | --- |
-| Project Title | &emsp; <b>PersonalExpenseTrackerApplication</b> &emsp; |
+| Project Title | &emsp; <b>Personal Expense Tracker Application</b> &emsp; |
 | Project Domain | &emsp; Cloud Application Development &emsp; |
 | Team ID  | &emsp; PNT2022TMID51917 &emsp; |
 | Team Size | &emsp; 4 &emsp; |
